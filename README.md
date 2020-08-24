@@ -1,2 +1,2 @@
 # orangejuice
-A website prototype build using parallax.js hpoe you like it.
+A website prototype build using parallax.js hope you like it.
